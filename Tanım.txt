@@ -1,0 +1,5 @@
+Taným :
+
+Bu projede kendi kiþisel uygulamalarýmý yaparken hýzlý ve stabil kodlama amacýyla bu framework'ü hazýrladým.
+
+Kunnalýlanlar : PHP (PDO)
